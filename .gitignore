@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+.env.local
+.env.*.local
+
+# SQLite / database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Alembic / migrations cache
+alembic/versions/*.pyc
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.secret
+*.pem
+*.key
+

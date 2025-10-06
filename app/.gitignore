@@ -1,0 +1,21 @@
+# Ambiente virtual
+venv/
+.env
+
+# Arquivos de cache Python
+__pycache__/
+*.pyc
+
+# Configurações locais
+.vscode/
+.settings/
+.idea/
+
+# Arquivos temporários
+*.log
+*.sqlite3
+.DS_Store
+
+# Credenciais e configs sensíveis
+config.json
+*.secret
